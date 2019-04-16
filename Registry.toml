@@ -1,0 +1,4 @@
+name = "SISL"
+repo = "https://github.com/sisl/Registry.jl"
+uuid = "b2c3bf37-fff5-4e76-b608-87f77ec6f5d6"
+description = "Registry for SISL Julia packages"
