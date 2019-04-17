@@ -1,5 +1,5 @@
 name = "SISL"
-repo = "https://github.com/sisl/Registry.jl"
+repo = "https://github.com/sisl/Registry"
 uuid = "b2c3bf37-fff5-4e76-b608-87f77ec6f5d6"
 description = "Registry for SISL Julia packages"
 
@@ -9,11 +9,11 @@ path = "V/Vec"
 
 [packages.99497e54-f3d6-53d3-a3a9-fa9315a7f1ba]
 name = "AutomotiveDrivingModels"
-path = "A/AutomotiveDrivingModels"
+path = "A\\AutomotiveDrivingModels"
 
 [packages.1385418a-9289-5a49-ab93-843b508de4cb]
 name = "AutoUrban"
-path = "AAutoUrban"
+path = "A/AutoUrban"
 
 [packages.5984c134-fa48-5ed5-a57f-fc2f6936871f]
 name = "Records"
