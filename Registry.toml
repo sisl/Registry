@@ -14,3 +14,7 @@ path = "AutomotiveDrivingModels"
 [packages.5984c134-fa48-5ed5-a57f-fc2f6936871f]
 name = "Records"
 path = "R/Records"
+
+[packages.82aa6e0c-a491-5edf-8d4b-c16b98e4ea17]
+name = "AutoViz"
+path = "AutoViz"
