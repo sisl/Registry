@@ -26,3 +26,7 @@ path = "A/AutomotiveDrivingModels"
 [packages.9ec66b5e-c605-11e8-1454-ede748df6f96]
 name = "AutomotiveSensors"
 path = "A/AutomotiveSensors"
+
+[packages.dca8afc0-c686-11e8-0934-712707da73aa]
+name = "AutomotivePOMDPs"
+path = "A/AutomotivePOMDPs"
