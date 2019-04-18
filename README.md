@@ -11,7 +11,7 @@ To add the SISL registry run this command from the Julia REPL:
 
 For now, adding packages is only supported locally. To add `CoolPackage.jl` to the registry proceed as follow:
 - clone the `CoolPackage.jl` repository 
-- Use the script `registratura.jl` from https://github.com/sisl/Registratura.jl.
+- Use the script `registratura.jl` from https://github.com/sisl/registratura.
   ```
   julia registratura.jl add SISL path/to/CoolPackage
   ```
