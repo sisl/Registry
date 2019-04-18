@@ -1,4 +1,7 @@
-["0.2.0"]
+["0.2.1"]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+
+["0.2.0-0.2.1"]
 Records = "5984c134-fa48-5ed5-a57f-fc2f6936871f"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Vec = "44eeaf0b-fee4-471f-9310-ed6585cb3142"
