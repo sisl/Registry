@@ -1,4 +1,8 @@
-["0.1.0"]
+["0.1.1-0.1.2"]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Registrator = "4418983a-e44d-11e8-3aec-9789530b3b3e"
+
+["0.1.0-0.1.2"]
 Records = "5984c134-fa48-5ed5-a57f-fc2f6936871f"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 Vec = "44eeaf0b-fee4-471f-9310-ed6585cb3142"
