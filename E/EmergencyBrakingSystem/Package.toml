@@ -1,0 +1,3 @@
+name = "EmergencyBrakingSystem"
+uuid = "3f59e4f0-e69d-11e8-310d-15d6353296e9"
+repo = "https://github.com/sisl/EmergencyBrakingSystem.jl/"
