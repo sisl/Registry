@@ -1,0 +1,3 @@
+name = "PedestrianAvoidancePOMDP"
+uuid = "a80ff0fe-e6a0-11e8-3b05-15413bd5ea7a"
+repo = "https://github.com/sisl/PedestrianAvoidancePOMDP.jl"
