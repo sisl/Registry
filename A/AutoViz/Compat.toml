@@ -6,3 +6,6 @@ Colors = "0.11"
 
 ["0.7.9"]
 Colors = ["0.7", "0.9"]
+
+["0.8-0"]
+AutomotiveDrivingModels = "0.7.10-*"
