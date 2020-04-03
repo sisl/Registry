@@ -6,7 +6,7 @@ description = "Registry for SISL Julia packages"
 [packages]
 1385418a-9289-5a49-ab93-843b508de4cb = { name = "AutoUrban", path = "A/AutoUrban" }
 18677a90-5fa8-11e9-205f-47359215bfb0 = { name = "AutonomousMerging", path = "A/AutonomousMerging" }
-3f59e4f0-e69d-11e8-310d-15d6353296e9 = { name = "EmergencyBrakingSystem", path = "E\\EmergencyBrakingSystem" }
+3f59e4f0-e69d-11e8-310d-15d6353296e9 = { name = "EmergencyBrakingSystem", path = "E/EmergencyBrakingSystem" }
 44eeaf0b-fee4-471f-9310-ed6585cb3142 = { name = "Vec", path = "V/Vec" }
 4b331413-18b5-5698-88d1-0abf3b5dfc34 = { name = "Obfuscatee", path = "O/Obfuscatee" }
 5984c134-fa48-5ed5-a57f-fc2f6936871f = { name = "Records", path = "R/Records" }
@@ -14,5 +14,5 @@ description = "Registry for SISL Julia packages"
 82aa6e0c-a491-5edf-8d4b-c16b98e4ea17 = { name = "AutoViz", path = "A/AutoViz" }
 99497e54-f3d6-53d3-a3a9-fa9315a7f1ba = { name = "AutomotiveDrivingModels", path = "A/AutomotiveDrivingModels" }
 9ec66b5e-c605-11e8-1454-ede748df6f96 = { name = "AutomotiveSensors", path = "A/AutomotiveSensors" }
-a80ff0fe-e6a0-11e8-3b05-15413bd5ea7a = { name = "PedestrianAvoidancePOMDP", path = "P\\PedestrianAvoidancePOMDP" }
+a80ff0fe-e6a0-11e8-3b05-15413bd5ea7a = { name = "PedestrianAvoidancePOMDP", path = "P/PedestrianAvoidancePOMDP" }
 dca8afc0-c686-11e8-0934-712707da73aa = { name = "AutomotivePOMDPs", path = "A/AutomotivePOMDPs" }
