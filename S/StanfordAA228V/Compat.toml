@@ -9,5 +9,10 @@ Parameters = "0.12"
 Plots = "1.40.0 - 1"
 Pluto = "0.20"
 PlutoUI = "0.7"
-SignalTemporalLogic = "1"
 julia = "1"
+
+["0 - 0.1.0"]
+SignalTemporalLogic = "1"
+
+["0.1.1 - 0"]
+SignalTemporalLogic = "0.1"
