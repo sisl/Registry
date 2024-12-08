@@ -1,0 +1,3 @@
+name = "BayesianSafetyValidation"
+uuid = "b2459b7e-6b9e-4dd9-9103-ad6e47d39f21"
+repo = "https://github.com/sisl/BayesianSafetyValidation.jl"
