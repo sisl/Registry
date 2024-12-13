@@ -24,6 +24,9 @@ AbstractPlutoDingetjes = "1.3.2 - 1"
 Base64 = "1.11.0 - 1"
 Markdown = "1.11.0 - 1"
 
+["0.1.12 - 0"]
+Pkg = "1.11.0 - 1"
+
 ["0.1.2 - 0"]
 SignalTemporalLogic = ["0.1", "1"]
 
