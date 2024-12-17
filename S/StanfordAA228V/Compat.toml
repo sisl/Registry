@@ -27,6 +27,9 @@ Markdown = "1.11.0 - 1"
 ["0.1.12 - 0"]
 Pkg = "1.11.0 - 1"
 
+["0.1.14 - 0"]
+ProgressLogging = "0.1.4 - 0.1"
+
 ["0.1.2 - 0"]
 SignalTemporalLogic = ["0.1", "1"]
 
