@@ -23,3 +23,6 @@ Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 ["0.1.14 - 0"]
 ProgressLogging = "33c8b6b6-d38a-422a-b730-caa89a2f386c"
+
+["0.1.16 - 0"]
+LazySets = "b4f0291d-fe17-52bc-9479-3d1a343d9043"
