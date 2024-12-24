@@ -26,3 +26,7 @@ ProgressLogging = "33c8b6b6-d38a-422a-b730-caa89a2f386c"
 
 ["0.1.16 - 0"]
 LazySets = "b4f0291d-fe17-52bc-9479-3d1a343d9043"
+
+["0.1.18 - 0"]
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
