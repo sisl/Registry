@@ -17,4 +17,5 @@ description = "Registry for SISL Julia packages"
 9ec66b5e-c605-11e8-1454-ede748df6f96 = { name = "AutomotiveSensors", path = "A/AutomotiveSensors" }
 a80ff0fe-e6a0-11e8-3b05-15413bd5ea7a = { name = "PedestrianAvoidancePOMDP", path = "P/PedestrianAvoidancePOMDP" }
 b2459b7e-6b9e-4dd9-9103-ad6e47d39f21 = { name = "BayesianSafetyValidation", path = "B/BayesianSafetyValidation" }
+d3cde879-03ee-4818-9d5f-9ea6cf0edfee = { name = "PlutoPapers", path = "P/PlutoPapers" }
 dca8afc0-c686-11e8-0934-712707da73aa = { name = "AutomotivePOMDPs", path = "A/AutomotivePOMDPs" }
