@@ -1,0 +1,3 @@
+name = "NeuralVerification"
+uuid = "146f25fa-00e7-11e9-3ae5-fdbac6e12fa7"
+repo = "https://github.com/sisl/NeuralVerification.jl.git"
