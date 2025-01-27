@@ -5,6 +5,7 @@ description = "Registry for SISL Julia packages"
 
 [packages]
 1385418a-9289-5a49-ab93-843b508de4cb = { name = "AutoUrban", path = "A/AutoUrban" }
+146f25fa-00e7-11e9-3ae5-fdbac6e12fa7 = { name = "NeuralVerification", path = "N/NeuralVerification" }
 18677a90-5fa8-11e9-205f-47359215bfb0 = { name = "AutonomousMerging", path = "A/AutonomousMerging" }
 3f59e4f0-e69d-11e8-310d-15d6353296e9 = { name = "EmergencyBrakingSystem", path = "E/EmergencyBrakingSystem" }
 44eeaf0b-fee4-471f-9310-ed6585cb3142 = { name = "Vec", path = "V/Vec" }
